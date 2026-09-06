@@ -26,7 +26,6 @@ Land an entry-level SOC Analyst position. Long-term interest in forensics/DFIR.
 ## 🔗 Progress log
 | Date | What I did | Key takeaway |
 |------|-----------|--------------|
-| _(start filling this in as you go)_ | | |
-
+7 sep| what is aws|
 ---
 *Following along? Feel free to connect on [LinkedIn] — always open to advice from people in the industry.*
