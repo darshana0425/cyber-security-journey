@@ -75,6 +75,66 @@ My focus is on understanding concepts, practising regularly, documenting my prog
 
 I believe that consistent practice and real understanding matter more than collecting certificates alone.
 
+Your daily checklist
+
+0 / 14
+
+Oct 18
+
+— Create a study tracker and review your current IBM SkillsBuild progress.
+
+Oct 19
+
+— Learn the difference between hardware, operating systems, applications and drivers.
+
+Oct 20
+
+— Practise basic macOS troubleshooting: storage, apps, processes and network settings.
+
+Oct 21
+
+— Learn IP address, DNS, DHCP, router and Wi-Fi basics.
+
+Oct 22
+
+— Practise ping, traceroute and nslookup; record what each command tells you.
+
+Oct 23
+
+— Write a troubleshooting guide for a laptop that cannot connect to Wi-Fi.
+
+Oct 24
+
+— Review your notes and upload the guide to your cyber-security-journey GitHub repository.
+
+Oct 25
+
+— Catch up on WIN assignments and plan the next week.
+
+Oct 26
+
+— Continue your IBM course and write notes in your own words.
+
+Oct 27
+
+— Learn basic Linux commands: pwd, ls, cd, mkdir, cat and less.
+
+Oct 28
+
+— Practise file permissions and understand users and groups.
+
+Oct 29
+
+— Learn what a help desk ticket contains: issue, impact, diagnosis and resolution.
+
+Oct 30
+
+— Create a second troubleshooting example, such as an application that will not open.
+
+Oct 31
+
+— Review progress, finish planned IBM modules and set November targets.
+
 ---
 
 **One day at a time. One skill at a time. Building towards a career in cybersecurity.** 🔐
